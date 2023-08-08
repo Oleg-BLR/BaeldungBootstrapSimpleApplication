@@ -1,4 +1,4 @@
-package org.springframework.boot.BaeldungApp.web;
+package com.baeldung.web;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
